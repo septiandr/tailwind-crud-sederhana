@@ -1,0 +1,27 @@
+{
+  "shippigComps": [
+    {
+      "id": 1,
+      "name": "Tonny Stark"
+    },
+    {
+      "id": 2,
+      "name": "Bruce"
+    },
+    {
+      "id": 3,
+      "name": "Clark Kent"
+    }
+  ],
+  "login":{
+      "data": {
+        "name": "Tonny Stark",
+        "address": "Malybu Mansion",
+        "phone": "212-970-4133",
+        "email": "@starkenterprises.com",
+        "motto": "The best thing about a boolean is even if you are wrong, you are only off by a bit.",
+        "photo": "avatar.jpg"
+      },
+      "status":true
+  }
+}
